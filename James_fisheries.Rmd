@@ -1,0 +1,10 @@
+---
+title: "My fisheries analysis"
+author: "James Bourke"
+date: "1/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
